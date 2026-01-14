@@ -1,0 +1,5 @@
+{
+  "name": "Postman O&M Tool",
+  "description": "A simplified Postman-like interface for managing and testing IoT device control commands from imported collections.",
+  "requestFramePermissions": []
+}
